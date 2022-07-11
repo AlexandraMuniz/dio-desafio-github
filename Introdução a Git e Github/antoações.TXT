@@ -1,1 +1,14 @@
-como fazer um push
+Alguns comandos:
+git init 
+git add *
+git commit -m "nome da alteração"
+git status
+git clone
+git push origin master
+git push origin main
+git pull
+git remote -v
+git remote add origin https://github.com/AlexandraMuniz/livro-receitas.git
+git config --list :mosta t
+echo > README.md :cria um arquivo chamdo readme.md
+
